@@ -1567,7 +1567,7 @@ zap2xml <zap2xml\@gmail.com> ($VERSION)
   -c <cacheDirectory> (default = "$cacheDir")
   -l <lang> (default = "$lang")
   -i <iconDirectory> (default = don't download channel icons)
-  -k <asset URL> (default = "https://emby.tmsimg.com/assets/")
+  -k <asset URL> (default = "https://tmsimg.fancybits.co/assets/")
   -m <#> = offset program times by # minutes (better to use TZ env var)
   -b = retain website channel order
   -x = output XTVD xml file format (default = XMLTV)
